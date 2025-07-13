@@ -2,7 +2,7 @@
   "item": {
     "name": "SekaiUI - 初音未来表盘",
     "description": "基于世界计划UI的表盘实现",
-     "previews": [
+    "previews": [
       "Previews/1.png",
       "Previews/2.png",
       "Previews/3.png",
@@ -17,24 +17,24 @@
         "name": "曉K",
         "url": "https://github.com/SmallK111407"
       }
-    ],
-    "downloads": {
-      "m67": {
-        "version": "1.1.2",
-        "file_name": "Bins/8Pro/8Pro_MIKU_V1.1.2.bin"
-      },
-      "n67": {
-        "version": "1.1.2",
-        "file_name": "Bins/9Pro/9Pro_MIKU_V1.1.2.bin"
-      },
-      "n65": {
-        "version": "1.1.2",
-        "file_name": "Bins/RW4/RW4_MIKU_V1.1.2.bin"
-      },
-      "o65": {
-        "version": "1.1.3",
-        "file_name": "Bins/RW5/RW5_MIKU_V1.1.3.bin"
-      }
+    ]
+  },
+  "downloads": {
+    "m67": {
+      "version": "1.1.2",
+      "file_name": "Bins/8Pro/8Pro_MIKU_V1.1.2.bin"
+    },
+    "n67": {
+      "version": "1.1.2",
+      "file_name": "Bins/9Pro/9Pro_MIKU_V1.1.2.bin"
+    },
+    "n65": {
+      "version": "1.1.2",
+      "file_name": "Bins/RW4/RW4_MIKU_V1.1.2.bin"
+    },
+    "o65": {
+      "version": "1.1.3",
+      "file_name": "Bins/RW5/RW5_MIKU_V1.1.3.bin"
     }
   }
 }
