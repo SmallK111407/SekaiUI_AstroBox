@@ -18,19 +18,15 @@
       }]
   },
   "downloads": {
-    "m67": {
-      "version": "1.1.2",
-      "file_name": "8Pro_MIKU_V1.1.2.bin"
-    },
     "n67": {
       "version": "1.1.2",
       "file_name": "9Pro_MIKU_V1.1.2.bin"
     },
-    "n65": {
-      "version": "1.1.2",
-      "file_name": "RW4_MIKU_V1.1.2.bin"
-    },
     "o65": {
+      "version": "1.1.3",
+      "file_name": "RW5_MIKU_V1.1.3.bin"
+    },
+    "o65m": {
       "version": "1.1.3",
       "file_name": "RW5_MIKU_V1.1.3.bin"
     }
